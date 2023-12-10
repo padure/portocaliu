@@ -23,6 +23,7 @@
                         <th>#</th>
                         <th>Nume</th>
                         <th>Faptas</th>
+                        <th>Element Random</th>
                     </tr>
                 </thead>
                 <tbody>
